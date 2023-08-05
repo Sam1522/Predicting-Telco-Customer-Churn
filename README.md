@@ -6,6 +6,7 @@ The goal of this project is to develop a machine learning model that can identif
 allowing the company to take proactive measures to retain those customers.
 
 **The Experimental Design**
+
  Below are the steps taken in this analysis
  1. loading the required libraries
  2. Loading and previewing data
